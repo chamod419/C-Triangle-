@@ -1,1 +1,1 @@
-# C-Triangle-
+# C++ Triangle-
